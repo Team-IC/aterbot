@@ -1,0 +1,16 @@
+{
+    "ip": "Your Server IP",
+    "comment": "Enter Your Server IP Without Port",
+    "port": "Your Server Port",
+    "comment": "Enter Your Server Port Without : OR IP",
+    "name": "Your Bot Name",
+    "comment": "The Bot Will Join With This Name",
+    "webserverport": "8080",
+    "comment": "The Web Server Will Run in this port",
+    "auto-reconnect": "true",
+    "comment": "If True Then Bot Will Skip Night",
+    "login-enabled": "false",
+    "comment": "If True Then Bot Will Login/Register",
+    "register-cmd": "/register {password} {password}",
+    "login-cmd": "/login {password}"
+   }
